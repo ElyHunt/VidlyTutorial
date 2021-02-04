@@ -13,4 +13,6 @@ namespace VidlyTutorial.Models
 
     // /movies/random
     // We want to create a page called movies controller with an action called random.
+
+    //This is EventHandlerTaskAsyncHelper Model for Movie. It contains the class for Movie.
 }

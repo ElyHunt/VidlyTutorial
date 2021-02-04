@@ -23,8 +23,9 @@ namespace VidlyTutorial
                       "~/Scripts/bootstrap.js"));
 
             bundles.Add(new StyleBundle("~/Content/css").Include(
-                      "~/Content/bootstrap.css",
+                      "~/Content/bootstrap-Solar.css",
                       "~/Content/site.css"));
+            //Changed "~/Content/bootstrap.css" to "~/Content/bootstrap-Solar.css"
         }
     }
 }
